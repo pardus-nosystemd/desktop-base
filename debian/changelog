@@ -1,4 +1,4 @@
-desktop-base (9999-noupdate) elizabeth; urgency=medium
+desktop-base (9999:9999-noupdate) elizabeth; urgency=medium
 
   * fork from debian
 
